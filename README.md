@@ -18,10 +18,6 @@ The project meets CS50 requirements:
 - Includes tests in `test_project.py` using pytest
 - No external libraries required (standard library only)
 
-## Demo Video
-🎥 Watch the demo here:
-[Video Demo URL](https://streamable.com/cczpyg?src=player-page-share)
-
 
 ## How to Run
 1. Clone or download this repository.
@@ -29,3 +25,4 @@ The project meets CS50 requirements:
 3. Run the editor:
    ```bash
    python project.py
+
