@@ -1,2 +1,8 @@
-# PyText-editor
-(not affliliated with python ) Pytext editor is a project of mine which is meant to serve as a text editor (not for commercial use) it is only to be used by tech entuasists and has everyday features that are useful.
+# pytest cache directory #
+
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+
+**Do not** commit this to version control.
+
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
